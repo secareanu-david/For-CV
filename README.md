@@ -1,4 +1,5 @@
-# For-CV
+# Webpage
+
 A highschool project I made using HTML and CSS.
 
 The main page is on 'prezentare.html' . I tried to summarise every important aspect of the game League of Legends on there. 
